@@ -1,0 +1,22 @@
+{
+  "name": "second-nodejs-project",
+  "version": "1.0.0",
+  "description": "the second node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/Seungrok-Yoon/mysecondnodejsproject.git",
+  "keywords": [
+    "node.js"
+  ],
+  "author": "SonicRok93",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seungrok-Yoon/mysecondnodejsproject/issues"
+  },
+  "homepage": "https://github.com/Seungrok-Yoon/mysecondnodejsproject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
